@@ -1,2 +1,619 @@
-{"data":{"summaries":[{"index":{"innings":"a_1","over_number":49},"runs":9,"wickets":0,"strikers":[{"player_key":"wan_makwetu","score":{"runs":47,"balls":30,"fours":9,"sixes":0,"dot_balls":8,"strike_rate":156.67},"is_dismissed":false},{"player_key":"a_gous","score":{"runs":163,"balls":145,"fours":13,"sixes":3,"dot_balls":48,"strike_rate":112.41},"is_dismissed":false}],"bowlers":[{"player_key":"co_bosch","score":{"balls":57,"runs":66,"economy":7.33,"extras":3,"wickets":0,"maiden_overs":0,"overs":[9,3],"balls_breakup":{"dot_balls":25,"wides":3,"no_balls":0,"fours":9,"sixes":0}}}],"match_score":{"runs":309,"wickets":4,"run_rate":6.37,"title":"309/4 in 48.3","req_run_rate":null,"req_balls":null,"req_runs":null}},{"index":{"innings":"a_1","over_number":48},"runs":17,"wickets":0,"strikers":[{"player_key":"a_gous","score":{"runs":163,"balls":145,"fours":13,"sixes":3,"dot_balls":48,"strike_rate":112.41},"is_dismissed":false},{"player_key":"wan_makwetu","score":{"runs":39,"balls":27,"fours":7,"sixes":0,"dot_balls":7,"strike_rate":144.44},"is_dismissed":false}],"bowlers":[{"player_key":"a_mothoa","score":{"balls":54,"runs":48,"economy":5.33,"extras":1,"wickets":0,"maiden_overs":0,"overs":[9,0],"balls_breakup":{"dot_balls":28,"wides":0,"no_balls":1,"fours":5,"sixes":1}}}],"match_score":{"runs":300,"wickets":4,"run_rate":6.25,"title":"300/4 in 48.0","req_run_rate":null,"req_balls":null,"req_runs":null}},{"index":{"innings":"a_1","over_number":47},"runs":4,"wickets":0,"strikers":[{"player_key":"wan_makwetu","score":{"runs":34,"balls":23,"fours":6,"sixes":0,"dot_balls":7,"strike_rate":147.83},"is_dismissed":false},{"player_key":"a_gous","score":{"runs":155,"balls":142,"fours":13,"sixes":2,"dot_balls":48,"strike_rate":109.15},"is_dismissed":false}],"bowlers":[{"player_key":"co_bosch","score":{"balls":54,"runs":57,"economy":6.33,"extras":2,"wickets":0,"maiden_overs":0,"overs":[9,0],"balls_breakup":{"dot_balls":24,"wides":2,"no_balls":0,"fours":7,"sixes":0}}}],"match_score":{"runs":283,"wickets":4,"run_rate":6.02,"title":"283/4 in 47.0","req_run_rate":null,"req_balls":null,"req_runs":null}},{"index":{"innings":"a_1","over_number":46},"runs":10,"wickets":0,"strikers":[{"player_key":"a_gous","score":{"runs":153,"balls":140,"fours":13,"sixes":2,"dot_balls":48,"strike_rate":109.29},"is_dismissed":false},{"player_key":"wan_makwetu","score":{"runs":32,"balls":19,"fours":6,"sixes":0,"dot_balls":5,"strike_rate":168.42},"is_dismissed":false}],"bowlers":[{"player_key":"a_mothoa","score":{"balls":48,"runs":34,"economy":4.25,"extras":0,"wickets":0,"maiden_overs":0,"overs":[8,0],"balls_breakup":{"dot_balls":26,"wides":0,"no_balls":0,"fours":4,"sixes":0}}}],"match_score":{"runs":279,"wickets":4,"run_rate":6.07,"title":"279/4 in 46.0","req_run_rate":null,"req_balls":null,"req_runs":null}},{"index":{"innings":"a_1","over_number":45},"runs":8,"wickets":0,"strikers":[{"player_key":"wan_makwetu","score":{"runs":27,"balls":16,"fours":5,"sixes":0,"dot_balls":4,"strike_rate":168.75},"is_dismissed":false},{"player_key":"a_gous","score":{"runs":148,"balls":137,"fours":12,"sixes":2,"dot_balls":47,"strike_rate":108.03},"is_dismissed":false}],"bowlers":[{"player_key":"co_bosch","score":{"balls":48,"runs":53,"economy":6.62,"extras":2,"wickets":0,"maiden_overs":0,"overs":[8,0],"balls_breakup":{"dot_balls":22,"wides":2,"no_balls":0,"fours":7,"sixes":0}}}],"match_score":{"runs":269,"wickets":4,"run_rate":5.98,"title":"269/4 in 45.0","req_run_rate":null,"req_balls":null,"req_runs":null}},{"index":{"innings":"a_1","over_number":44},"runs":12,"wickets":0,"strikers":[{"player_key":"wan_makwetu","score":{"runs":21,"balls":12,"fours":4,"sixes":0,"dot_balls":3,"strike_rate":175.0},"is_dismissed":false},{"player_key":"a_gous","score":{"runs":146,"balls":135,"fours":12,"sixes":2,"dot_balls":47,"strike_rate":108.15},"is_dismissed":false}],"bowlers":[{"player_key":"jr_dala","score":{"balls":30,"runs":46,"economy":9.2,"extras":3,"wickets":1,"maiden_overs":0,"overs":[5,0],"balls_breakup":{"dot_balls":10,"wides":3,"no_balls":0,"fours":8,"sixes":0}}}],"match_score":{"runs":261,"wickets":4,"run_rate":5.93,"title":"261/4 in 44.0","req_run_rate":null,"req_balls":null,"req_runs":null}},{"index":{"innings":"a_1","over_number":43},"runs":11,"wickets":0,"strikers":[{"player_key":"a_gous","score":{"runs":145,"balls":134,"fours":12,"sixes":2,"dot_balls":47,"strike_rate":108.21},"is_dismissed":false},{"player_key":"wan_makwetu","score":{"runs":11,"balls":7,"fours":2,"sixes":0,"dot_balls":2,"strike_rate":157.14},"is_dismissed":false}],"bowlers":[{"player_key":"imr_manack","score":{"balls":54,"runs":47,"economy":5.22,"extras":2,"wickets":0,"maiden_overs":0,"overs":[9,0],"balls_breakup":{"dot_balls":22,"wides":2,"no_balls":0,"fours":3,"sixes":0}}}],"match_score":{"runs":249,"wickets":4,"run_rate":5.79,"title":"249/4 in 43.0","req_run_rate":null,"req_balls":null,"req_runs":null}},{"index":{"innings":"a_1","over_number":42},"runs":8,"wickets":1,"strikers":[{"player_key":"p_kruger","score":{"runs":3,"balls":6,"fours":0,"sixes":0,"dot_balls":3,"strike_rate":50.0},"is_dismissed":true},{"player_key":"a_gous","score":{"runs":141,"balls":132,"fours":12,"sixes":2,"dot_balls":47,"strike_rate":106.82},"is_dismissed":false},{"player_key":"wan_makwetu","score":{"runs":5,"balls":3,"fours":1,"sixes":0,"dot_balls":1,"strike_rate":166.67},"is_dismissed":false}],"bowlers":[{"player_key":"jr_dala","score":{"balls":24,"runs":34,"economy":8.5,"extras":2,"wickets":1,"maiden_overs":0,"overs":[4,0],"balls_breakup":{"dot_balls":9,"wides":2,"no_balls":0,"fours":6,"sixes":0}}}],"match_score":{"runs":238,"wickets":4,"run_rate":5.67,"title":"238/4 in 42.0","req_run_rate":null,"req_balls":null,"req_runs":null}},{"index":{"innings":"a_1","over_number":41},"runs":9,"wickets":0,"strikers":[{"player_key":"a_gous","score":{"runs":139,"balls":130,"fours":12,"sixes":2,"dot_balls":47,"strike_rate":106.92},"is_dismissed":false},{"player_key":"p_kruger","score":{"runs":3,"balls":5,"fours":0,"sixes":0,"dot_balls":2,"strike_rate":60.0},"is_dismissed":false}],"bowlers":[{"player_key":"imr_manack","score":{"balls":48,"runs":36,"economy":4.5,"extras":1,"wickets":0,"maiden_overs":0,"overs":[8,0],"balls_breakup":{"dot_balls":21,"wides":1,"no_balls":0,"fours":2,"sixes":0}}}],"match_score":{"runs":230,"wickets":3,"run_rate":5.61,"title":"230/3 in 41.0","req_run_rate":null,"req_balls":null,"req_runs":null}}],"previous_page_index":{"innings":"a_1","over_number":31},"next_page_index":null,"previous_page_key":"a_1_31","next_page_key":null},"cache":{"key":"RS:CK:Match:momentum_odi_2020_g19:OverSummary:latest:5.0","expires":1626191723.51185,"etag":"ET:RS:CK:Match:momentum_odi_2020_g19:OverSummary:latest:5.0:1626191723.51185:0","max_age":300},"schema":{"major_version":"5.0","minor_version":"1"},"error":null,"http_status_code":200}
-
+{
+  "summaries": [
+    {
+      "index": {
+        "innings": "a_1",
+        "over_number": 49
+      },
+      "runs": 9,
+      "wickets": 0,
+      "strikers": [
+        {
+          "player_key": "wan_makwetu",
+          "score": {
+            "runs": 47,
+            "balls": 30,
+            "fours": 9,
+            "sixes": 0,
+            "dot_balls": 8,
+            "strike_rate": 156.67
+          },
+          "is_dismissed": false
+        },
+        {
+          "player_key": "a_gous",
+          "score": {
+            "runs": 163,
+            "balls": 145,
+            "fours": 13,
+            "sixes": 3,
+            "dot_balls": 48,
+            "strike_rate": 112.41
+          },
+          "is_dismissed": false
+        }
+      ],
+      "bowlers": [
+        {
+          "player_key": "co_bosch",
+          "score": {
+            "balls": 57,
+            "runs": 66,
+            "economy": 7.33,
+            "extras": 3,
+            "wickets": 0,
+            "maiden_overs": 0,
+            "overs": [
+              9,
+              3
+            ],
+            "balls_breakup": {
+              "dot_balls": 25,
+              "wides": 3,
+              "no_balls": 0,
+              "fours": 9,
+              "sixes": 0
+            }
+          }
+        }
+      ],
+      "match_score": {
+        "runs": 309,
+        "wickets": 4,
+        "run_rate": 6.37,
+        "title": "309/4 in 48.3",
+        "req_run_rate": null,
+        "req_balls": null,
+        "req_runs": null
+      }
+    },
+    {
+      "index": {
+        "innings": "a_1",
+        "over_number": 48
+      },
+      "runs": 17,
+      "wickets": 0,
+      "strikers": [
+        {
+          "player_key": "a_gous",
+          "score": {
+            "runs": 163,
+            "balls": 145,
+            "fours": 13,
+            "sixes": 3,
+            "dot_balls": 48,
+            "strike_rate": 112.41
+          },
+          "is_dismissed": false
+        },
+        {
+          "player_key": "wan_makwetu",
+          "score": {
+            "runs": 39,
+            "balls": 27,
+            "fours": 7,
+            "sixes": 0,
+            "dot_balls": 7,
+            "strike_rate": 144.44
+          },
+          "is_dismissed": false
+        }
+      ],
+      "bowlers": [
+        {
+          "player_key": "a_mothoa",
+          "score": {
+            "balls": 54,
+            "runs": 48,
+            "economy": 5.33,
+            "extras": 1,
+            "wickets": 0,
+            "maiden_overs": 0,
+            "overs": [
+              9,
+              0
+            ],
+            "balls_breakup": {
+              "dot_balls": 28,
+              "wides": 0,
+              "no_balls": 1,
+              "fours": 5,
+              "sixes": 1
+            }
+          }
+        }
+      ],
+      "match_score": {
+        "runs": 300,
+        "wickets": 4,
+        "run_rate": 6.25,
+        "title": "300/4 in 48.0",
+        "req_run_rate": null,
+        "req_balls": null,
+        "req_runs": null
+      }
+    },
+    {
+      "index": {
+        "innings": "a_1",
+        "over_number": 47
+      },
+      "runs": 4,
+      "wickets": 0,
+      "strikers": [
+        {
+          "player_key": "wan_makwetu",
+          "score": {
+            "runs": 34,
+            "balls": 23,
+            "fours": 6,
+            "sixes": 0,
+            "dot_balls": 7,
+            "strike_rate": 147.83
+          },
+          "is_dismissed": false
+        },
+        {
+          "player_key": "a_gous",
+          "score": {
+            "runs": 155,
+            "balls": 142,
+            "fours": 13,
+            "sixes": 2,
+            "dot_balls": 48,
+            "strike_rate": 109.15
+          },
+          "is_dismissed": false
+        }
+      ],
+      "bowlers": [
+        {
+          "player_key": "co_bosch",
+          "score": {
+            "balls": 54,
+            "runs": 57,
+            "economy": 6.33,
+            "extras": 2,
+            "wickets": 0,
+            "maiden_overs": 0,
+            "overs": [
+              9,
+              0
+            ],
+            "balls_breakup": {
+              "dot_balls": 24,
+              "wides": 2,
+              "no_balls": 0,
+              "fours": 7,
+              "sixes": 0
+            }
+          }
+        }
+      ],
+      "match_score": {
+        "runs": 283,
+        "wickets": 4,
+        "run_rate": 6.02,
+        "title": "283/4 in 47.0",
+        "req_run_rate": null,
+        "req_balls": null,
+        "req_runs": null
+      }
+    },
+    {
+      "index": {
+        "innings": "a_1",
+        "over_number": 46
+      },
+      "runs": 10,
+      "wickets": 0,
+      "strikers": [
+        {
+          "player_key": "a_gous",
+          "score": {
+            "runs": 153,
+            "balls": 140,
+            "fours": 13,
+            "sixes": 2,
+            "dot_balls": 48,
+            "strike_rate": 109.29
+          },
+          "is_dismissed": false
+        },
+        {
+          "player_key": "wan_makwetu",
+          "score": {
+            "runs": 32,
+            "balls": 19,
+            "fours": 6,
+            "sixes": 0,
+            "dot_balls": 5,
+            "strike_rate": 168.42
+          },
+          "is_dismissed": false
+        }
+      ],
+      "bowlers": [
+        {
+          "player_key": "a_mothoa",
+          "score": {
+            "balls": 48,
+            "runs": 34,
+            "economy": 4.25,
+            "extras": 0,
+            "wickets": 0,
+            "maiden_overs": 0,
+            "overs": [
+              8,
+              0
+            ],
+            "balls_breakup": {
+              "dot_balls": 26,
+              "wides": 0,
+              "no_balls": 0,
+              "fours": 4,
+              "sixes": 0
+            }
+          }
+        }
+      ],
+      "match_score": {
+        "runs": 279,
+        "wickets": 4,
+        "run_rate": 6.07,
+        "title": "279/4 in 46.0",
+        "req_run_rate": null,
+        "req_balls": null,
+        "req_runs": null
+      }
+    },
+    {
+      "index": {
+        "innings": "a_1",
+        "over_number": 45
+      },
+      "runs": 8,
+      "wickets": 0,
+      "strikers": [
+        {
+          "player_key": "wan_makwetu",
+          "score": {
+            "runs": 27,
+            "balls": 16,
+            "fours": 5,
+            "sixes": 0,
+            "dot_balls": 4,
+            "strike_rate": 168.75
+          },
+          "is_dismissed": false
+        },
+        {
+          "player_key": "a_gous",
+          "score": {
+            "runs": 148,
+            "balls": 137,
+            "fours": 12,
+            "sixes": 2,
+            "dot_balls": 47,
+            "strike_rate": 108.03
+          },
+          "is_dismissed": false
+        }
+      ],
+      "bowlers": [
+        {
+          "player_key": "co_bosch",
+          "score": {
+            "balls": 48,
+            "runs": 53,
+            "economy": 6.62,
+            "extras": 2,
+            "wickets": 0,
+            "maiden_overs": 0,
+            "overs": [
+              8,
+              0
+            ],
+            "balls_breakup": {
+              "dot_balls": 22,
+              "wides": 2,
+              "no_balls": 0,
+              "fours": 7,
+              "sixes": 0
+            }
+          }
+        }
+      ],
+      "match_score": {
+        "runs": 269,
+        "wickets": 4,
+        "run_rate": 5.98,
+        "title": "269/4 in 45.0",
+        "req_run_rate": null,
+        "req_balls": null,
+        "req_runs": null
+      }
+    },
+    {
+      "index": {
+        "innings": "a_1",
+        "over_number": 44
+      },
+      "runs": 12,
+      "wickets": 0,
+      "strikers": [
+        {
+          "player_key": "wan_makwetu",
+          "score": {
+            "runs": 21,
+            "balls": 12,
+            "fours": 4,
+            "sixes": 0,
+            "dot_balls": 3,
+            "strike_rate": 175.0
+          },
+          "is_dismissed": false
+        },
+        {
+          "player_key": "a_gous",
+          "score": {
+            "runs": 146,
+            "balls": 135,
+            "fours": 12,
+            "sixes": 2,
+            "dot_balls": 47,
+            "strike_rate": 108.15
+          },
+          "is_dismissed": false
+        }
+      ],
+      "bowlers": [
+        {
+          "player_key": "jr_dala",
+          "score": {
+            "balls": 30,
+            "runs": 46,
+            "economy": 9.2,
+            "extras": 3,
+            "wickets": 1,
+            "maiden_overs": 0,
+            "overs": [
+              5,
+              0
+            ],
+            "balls_breakup": {
+              "dot_balls": 10,
+              "wides": 3,
+              "no_balls": 0,
+              "fours": 8,
+              "sixes": 0
+            }
+          }
+        }
+      ],
+      "match_score": {
+        "runs": 261,
+        "wickets": 4,
+        "run_rate": 5.93,
+        "title": "261/4 in 44.0",
+        "req_run_rate": null,
+        "req_balls": null,
+        "req_runs": null
+      }
+    },
+    {
+      "index": {
+        "innings": "a_1",
+        "over_number": 43
+      },
+      "runs": 11,
+      "wickets": 0,
+      "strikers": [
+        {
+          "player_key": "a_gous",
+          "score": {
+            "runs": 145,
+            "balls": 134,
+            "fours": 12,
+            "sixes": 2,
+            "dot_balls": 47,
+            "strike_rate": 108.21
+          },
+          "is_dismissed": false
+        },
+        {
+          "player_key": "wan_makwetu",
+          "score": {
+            "runs": 11,
+            "balls": 7,
+            "fours": 2,
+            "sixes": 0,
+            "dot_balls": 2,
+            "strike_rate": 157.14
+          },
+          "is_dismissed": false
+        }
+      ],
+      "bowlers": [
+        {
+          "player_key": "imr_manack",
+          "score": {
+            "balls": 54,
+            "runs": 47,
+            "economy": 5.22,
+            "extras": 2,
+            "wickets": 0,
+            "maiden_overs": 0,
+            "overs": [
+              9,
+              0
+            ],
+            "balls_breakup": {
+              "dot_balls": 22,
+              "wides": 2,
+              "no_balls": 0,
+              "fours": 3,
+              "sixes": 0
+            }
+          }
+        }
+      ],
+      "match_score": {
+        "runs": 249,
+        "wickets": 4,
+        "run_rate": 5.79,
+        "title": "249/4 in 43.0",
+        "req_run_rate": null,
+        "req_balls": null,
+        "req_runs": null
+      }
+    },
+    {
+      "index": {
+        "innings": "a_1",
+        "over_number": 42
+      },
+      "runs": 8,
+      "wickets": 1,
+      "strikers": [
+        {
+          "player_key": "p_kruger",
+          "score": {
+            "runs": 3,
+            "balls": 6,
+            "fours": 0,
+            "sixes": 0,
+            "dot_balls": 3,
+            "strike_rate": 50.0
+          },
+          "is_dismissed": true
+        },
+        {
+          "player_key": "a_gous",
+          "score": {
+            "runs": 141,
+            "balls": 132,
+            "fours": 12,
+            "sixes": 2,
+            "dot_balls": 47,
+            "strike_rate": 106.82
+          },
+          "is_dismissed": false
+        },
+        {
+          "player_key": "wan_makwetu",
+          "score": {
+            "runs": 5,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "dot_balls": 1,
+            "strike_rate": 166.67
+          },
+          "is_dismissed": false
+        }
+      ],
+      "bowlers": [
+        {
+          "player_key": "jr_dala",
+          "score": {
+            "balls": 24,
+            "runs": 34,
+            "economy": 8.5,
+            "extras": 2,
+            "wickets": 1,
+            "maiden_overs": 0,
+            "overs": [
+              4,
+              0
+            ],
+            "balls_breakup": {
+              "dot_balls": 9,
+              "wides": 2,
+              "no_balls": 0,
+              "fours": 6,
+              "sixes": 0
+            }
+          }
+        }
+      ],
+      "match_score": {
+        "runs": 238,
+        "wickets": 4,
+        "run_rate": 5.67,
+        "title": "238/4 in 42.0",
+        "req_run_rate": null,
+        "req_balls": null,
+        "req_runs": null
+      }
+    },
+    {
+      "index": {
+        "innings": "a_1",
+        "over_number": 41
+      },
+      "runs": 9,
+      "wickets": 0,
+      "strikers": [
+        {
+          "player_key": "a_gous",
+          "score": {
+            "runs": 139,
+            "balls": 130,
+            "fours": 12,
+            "sixes": 2,
+            "dot_balls": 47,
+            "strike_rate": 106.92
+          },
+          "is_dismissed": false
+        },
+        {
+          "player_key": "p_kruger",
+          "score": {
+            "runs": 3,
+            "balls": 5,
+            "fours": 0,
+            "sixes": 0,
+            "dot_balls": 2,
+            "strike_rate": 60.0
+          },
+          "is_dismissed": false
+        }
+      ],
+      "bowlers": [
+        {
+          "player_key": "imr_manack",
+          "score": {
+            "balls": 48,
+            "runs": 36,
+            "economy": 4.5,
+            "extras": 1,
+            "wickets": 0,
+            "maiden_overs": 0,
+            "overs": [
+              8,
+              0
+            ],
+            "balls_breakup": {
+              "dot_balls": 21,
+              "wides": 1,
+              "no_balls": 0,
+              "fours": 2,
+              "sixes": 0
+            }
+          }
+        }
+      ],
+      "match_score": {
+        "runs": 230,
+        "wickets": 3,
+        "run_rate": 5.61,
+        "title": "230/3 in 41.0",
+        "req_run_rate": null,
+        "req_balls": null,
+        "req_runs": null
+      }
+    }
+  ]
+}
